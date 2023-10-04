@@ -28,6 +28,7 @@ The following sections are ordered by what I personally believe to be the most i
 
 ## 1. Variables
 
+  
 - A _variable_ is like a box you can save information in. This information could be a some text, a number, or even another box. A video game that asks for your name will store it in a _variable_ so that it will remember for later when it is time to add you to the high scores.
 
     <sub>`playerName` is the name of the variable. `"Bob"` is the text that we save inside of it.</sub>
